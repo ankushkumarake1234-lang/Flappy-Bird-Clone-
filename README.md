@@ -663,7 +663,7 @@ copies or substantial portions of the Software.
 
 Having issues? We're here to help!
 
-- 📧 **Email:** ankushkumarake@gmail.com
+- 📧 **Email:** ankushkumarake1234@gmail.com
 
 ---
 
