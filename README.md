@@ -641,7 +641,7 @@ copies or substantial portions of the Software.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankushkumarake1234-lang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-kumar-60333537b/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ankushkumar)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AnkushKuma42443)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://profound-muffin-4b3660.netlify.app/)
 
 **Python Developer | Game Enthusiast | Open Source Contributor**
@@ -664,9 +664,6 @@ copies or substantial portions of the Software.
 Having issues? We're here to help!
 
 - 📧 **Email:** ankushkumarake@gmail.com
-- 💬 **Discord:** [Join our server](https://discord.gg/flappybird)
-- 🐛 **Bug Reports:** [GitHub Issues](https://github.com/ankushkumar/flappy-bird-clone/issues)
-- 💡 **Feature Requests:** [GitHub Discussions](https://github.com/ankushkumar/flappy-bird-clone/discussions)
 
 ---
 
